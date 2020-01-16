@@ -1,0 +1,11 @@
+首先试一下输出hello world：
+在程序中键入： ！print("Hello world!")   
+按下回车，查看是否输出hello world，如果没有，请确保字符为英文以及拼写无误
+这是最基本的输出语句print的用法
+
+如同c语言，python中也有变量，但其不需要写类型，直接写名字就行：
+我们改写hello world：
+！output = "hello world!"
+！print(output)
+输出是不变的，但这次我们用了变量（即output） 不得不说python变量的使用比其他语言简单许多
+//练习2.1 2.2
