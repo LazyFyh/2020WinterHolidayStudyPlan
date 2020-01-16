@@ -1,0 +1,1 @@
+print('XXX said,"xxxxx"')
